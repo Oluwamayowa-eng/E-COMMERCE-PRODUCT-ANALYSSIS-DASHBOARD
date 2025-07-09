@@ -16,7 +16,7 @@ The dashboard helps answer key business questions:
 
 *Dashboard Sections*
 
-1. 🏷Discounts Summary
+1. Discounts Summary
 - Average Discount by Category (Bar Chart)
 - Products with 50%+ Discount (KPI Card)
 - Rating vs Discount Level (Stacked Column Chart)
